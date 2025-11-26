@@ -226,6 +226,7 @@ def render_footer():
     st.divider()
     st.markdown("""
         <p style="text-align:center; color:#777; font-size:0.9rem; margin-top: 10px;">
-            Built with ❤️ for Educational Purposes (Samvidhan Divas) · Version 2.1
+            Built for Educational Purposes (Samvidhan Divas) · Version 1.0
+By Khurram Rashid
         </p>
     """, unsafe_allow_html=True)
