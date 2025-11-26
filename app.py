@@ -203,7 +203,7 @@ def main():
         # Input and Button in a single form to handle the click event
         with st.form(key="global_fetch_form"):
             country_input = st.text_input(
-                "Enter country name to generate its Constitutional Preamble (AI-Generated)",
+                "Enter country name to generate its Constitutional Preamble",
                 key="country_input_text",
                 placeholder="e.g., Germany, USA, South Africa"
             )
