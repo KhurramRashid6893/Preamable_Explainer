@@ -18,7 +18,10 @@ from .prompts import (
 
 GEMINI_KEYS = [
         "AIzaSyAVfzxvB-6WSp3i7Yfv4n1PWsA3To-rR8k",
-        "AIzaSyAXHLvsz3nEqe99ry_BQ8sbadCvHhDdtBE"
+        "AIzaSyAXHLvsz3nEqe99ry_BQ8sbadCvHhDdtBE",
+"AIzaSyBDTz3gHHDfDOZU6FARjrVju-framMJ3CI",
+"AIzaSyAplo7Gv3oisIorskeHhrbQ1uev5_wyDiA",
+"AIzaSyA_5Bzcs6wVCTPp9HxLEZVw-ztHDeVMU8I"
 ]
 
 
