@@ -23,7 +23,8 @@ GEMINI_KEYS = [
         "AIzaSyAplo7Gv3oisIorskeHhrbQ1uev5_wyDiA",
         "AIzaSyA_5Bzcs6wVCTPp9HxLEZVw-ztHDeVMU8I",
         "AIzaSyBoNXhxWY3bR5HDk5UDNqvUuBEhgH4fISk",
-        "AIzaSyAwnYTCg1rl4lcyDkik1AskYZgzaXNnVMw
+        "AIzaSyAwnYTCg1rl4lcyDkik1AskYZgzaXNnVMw",
+        "AIzaSyB96O65fdq08XANOt5ExZynrqlRw2QIjgE"
 ]
 
 
