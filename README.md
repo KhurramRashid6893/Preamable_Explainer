@@ -1,8 +1,3 @@
-Here is the clean Markdown version of your README — no HTML, no extra formatting issues — you can directly copy and paste this into README.md on GitHub.
-
-
----
-
 # 🇮🇳🌍 Preamble Explorer  
 AI-Powered Constitutional Learning Tool
 
