@@ -24,7 +24,8 @@ GEMINI_KEYS = [
         "AIzaSyA_5Bzcs6wVCTPp9HxLEZVw-ztHDeVMU8I",
         "AIzaSyBoNXhxWY3bR5HDk5UDNqvUuBEhgH4fISk",
         "AIzaSyAwnYTCg1rl4lcyDkik1AskYZgzaXNnVMw",
-        "AIzaSyB96O65fdq08XANOt5ExZynrqlRw2QIjgE"
+        "AIzaSyB96O65fdq08XANOt5ExZynrqlRw2QIjgE",
+"AIzaSyDJ1l1LGx7i7h_l29mM2mk6fN83HWONUa4"
 ]
 
 
