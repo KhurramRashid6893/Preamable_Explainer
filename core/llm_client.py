@@ -15,20 +15,11 @@ from .prompts import (
 #
 # IMPORTANT: Replace these 5 placeholder values with your actual Gemini keys.
 # =====================================================================
-
-GEMINI_KEYS = [
-        "AIzaSyAVfzxvB-6WSp3i7Yfv4n1PWsA3To-rR8k",
-        "AIzaSyAXHLvsz3nEqe99ry_BQ8sbadCvHhDdtBE",
-        "AIzaSyBDTz3gHHDfDOZU6FARjrVju-framMJ3CI",
-        "AIzaSyAplo7Gv3oisIorskeHhrbQ1uev5_wyDiA",
-        "AIzaSyA_5Bzcs6wVCTPp9HxLEZVw-ztHDeVMU8I",
-        "AIzaSyBoNXhxWY3bR5HDk5UDNqvUuBEhgH4fISk",
-        "AIzaSyAwnYTCg1rl4lcyDkik1AskYZgzaXNnVMw",
-        "AIzaSyB96O65fdq08XANOt5ExZynrqlRw2QIjgE",
-"AIzaSyDJ1l1LGx7i7h_l29mM2mk6fN83HWONUa4"
-]
-
-
+# Load Gemini keys securely from Streamlit Secrets
+try:
+    GEMINI_KEYS = st.secrets["GEMINI_KEYS"]
+except Exception:
+    GEMINI_KEYS = []
 # =====================================================================
 # GEMINI GENERATION CORE
 # =====================================================================
