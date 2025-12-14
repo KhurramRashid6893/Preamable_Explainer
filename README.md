@@ -1,4 +1,4 @@
-# 🇮🇳🌍 Preamble Explorer  
+# 🇮🇳🌍 Preamble Explorer
 AI-Powered Constitutional Learning Tool
 
 **Preamble Explorer** is an educational AI application designed to help students, educators, and citizens understand constitutional values — beginning with India's Preamble and extending to the preambles of countries across the world.
